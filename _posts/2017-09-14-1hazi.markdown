@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "1. házi feladat"
+date:   2017-09-14 14:00:51 +0200
+categories:
+---
+Olvassa el következő órára (2017. szeptember 21.) Érszegi Géza *Paleográfia* c. tanulmányát, a bibliográfiai adatokhoz ld. a kötelező olvasmányok listáját!
