@@ -1,7 +1,0 @@
----
-layout: post
-title:  "3. házi feladat"
-date:   2017-10-23 14:00:51 +0200
-categories:
----
-Tanulmányozza következő órára (2017. október 24.) az Irodalomtörténeti Közlemények címleírási és jegyzetelési alapelveit, valamint az irodalomból szakdolgozatot írók számára összeállított jegyzetelési és bibliográfiakészítési útmutatót! Mindkét szöveg forrását megtalálja az irodalomjegyzékben.
