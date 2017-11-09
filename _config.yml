@@ -17,7 +17,7 @@ title: Bevezetés az irodalomtudományba
 author: Tasi Réka
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  *Bevezetés az irodalomtudományba* c. kurzus tematikája és házi feladatai
+  Bevezetés az irodalomtudományba c. kurzus tematikája és házi feladatai
 baseurl: "/bevezetes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
