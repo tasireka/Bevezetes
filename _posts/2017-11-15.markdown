@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Olvasnivaló
-date:   2017-11-15 14:00:51 +0200
+date:   2017-11-15 12:00:51 +0200
 categories:
 ---
 Tanulmányozza következő órára (2017. november 16.) [ezt a rövid összefoglalást](https://tasireka.github.io/Bevezetes/files/filologia_tort.doc) a filológia történetéről!
