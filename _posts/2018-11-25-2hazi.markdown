@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "1. házi feladat"
-date:   2018-10-14 14:00:51 +0200
+title:  "2. házi feladat"
+date:   2018-11-25 14:00:51 +0200
 categories:
 ---
 Válasszon ki egy kritikai kiadást [ebből a bibliográfiából](http://textologia.iti.mta.hu/bibliografia.php), és ismertesse maximum 1 oldal terjedelemben.
